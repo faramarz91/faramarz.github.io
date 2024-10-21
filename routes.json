@@ -2,15 +2,15 @@
   "routes": [
     {
       "name": "Home",
-      "icon": "home"
+      "icon": "HomeIcon"
     },
     {
       "name": "Resume",
-      "icon": "Resume"
+      "icon": "BriefcaseIcon"
     },
     {
       "name": "Experience",
-      "icon": "Experience"
+      "icon": "BeakerIcon"
     }
   ]
 }
