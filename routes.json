@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "name": "Home",
+      "icon": "home"
+    },
+    {
+      "name": "Resume",
+      "icon": "Resume"
+    },
+    {
+      "name": "Experience",
+      "icon": "Experience"
+    }
+  ]
+}
