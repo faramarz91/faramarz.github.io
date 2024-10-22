@@ -5,6 +5,10 @@
       "icon": "HomeIcon"
     },
     {
+      "name": "About",
+      "icon": "UserIcon"
+    },
+    {
       "name": "Resume",
       "icon": "BriefcaseIcon"
     },
