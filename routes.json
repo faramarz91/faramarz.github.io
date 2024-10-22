@@ -11,6 +11,10 @@
     {
       "name": "Experience",
       "icon": "BeakerIcon"
+    },
+    {
+      "name": "Contact",
+      "icon": "EnvelopeIcon"
     }
   ]
 }
